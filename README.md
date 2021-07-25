@@ -3,6 +3,7 @@
 This project is to show an example of how to migrate a MySQL database from one
 instance to another.  A common scenario is migrating a database from one remote
 machine to another remote machine.
+Hi I too added
 
 Prerequisites:
 
